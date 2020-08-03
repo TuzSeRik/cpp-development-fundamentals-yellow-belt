@@ -1,0 +1,12 @@
+# Задание, оцениваемое сокурсниками: Грамотно рефакторим код
+![image](./../../assets/231.jpg)
+![image](./../../assets/232.jpg)
+![image](./../../assets/233.jpg)
+![image](./../../assets/234.jpg)
+![image](./../../assets/235.jpg)
+![image](./../../assets/236.jpg)
+![image](./../../assets/237.jpg)
+![image](./../../assets/238.jpg)
+![image](./../../assets/239.jpg)
+![image](./../../assets/240.jpg)
+![image](./../../assets/241.jpg)
