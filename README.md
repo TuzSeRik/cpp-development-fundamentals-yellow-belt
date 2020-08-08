@@ -29,5 +29,5 @@ in GitHub profile description.
 Вы должны связаться со мной при помощи почты,
 указанной в описании профиля GutHub.
 
-# Certificate
+# [Certificate](./certificate.pdf)
 ![image](./assets/293.jpg)
